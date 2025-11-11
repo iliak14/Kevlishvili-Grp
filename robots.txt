@@ -1,1 +1,1 @@
-Sitemap: https://iliak14.github.io/Kevlishvili-Grp/sitemap.xml
+Sitemap: http://kevlishviligrp.com/sitemap.xml
